@@ -1,4 +1,4 @@
-# The Amazing Exquisite Corpse
+# The PERFECT Amazing Exquisite Corpse
 
 **Start of the story**
 
