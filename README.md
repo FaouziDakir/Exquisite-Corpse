@@ -1,6 +1,6 @@
 # The Amazing Exquisite Corpse
 
-**Start of the story**
+**Start of the corrected story**
 
 We started our story with a devsecops oriented Git development 
 The problem is : Git can be quite hard to learn when you are not used to ~~blablabla~~. 
