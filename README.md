@@ -1,4 +1,5 @@
 # The Amazing Exquisite Corpse
+<<<<<<< HEAD
 
 **Start of the story**
 
@@ -19,3 +20,9 @@ Authors
 
 > *This good woman* had a *little red riding hood* made for her.  
  It suited the girl so **extremely** well that everybody called her *Little Red Riding Hood*. 
+=======
+git branch
+salut tout le monde 
+Hi
+354
+>>>>>>> Yamina
