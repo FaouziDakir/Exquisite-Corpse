@@ -23,3 +23,5 @@ git branch
 salut tout le monde 
 Hi
 354
+I love Belgium
+I love DevSecOps
